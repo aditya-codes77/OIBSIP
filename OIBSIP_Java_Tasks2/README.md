@@ -19,7 +19,7 @@ Create a fun and interactive game in Java where the system generates a number be
 ## 🎯 Outcome
 A simple console-based Java application that improves logical thinking and command of Java basics such as loops, conditionals, and user input.
 
-🚀 **Demo Video Link (LinkedIn)**: [Click here (coming soon)](https://www.linkedin.com/in/aditya-codes77/)
+🚀 **Demo Video Link (LinkedIn)**: [Click here to view the video ](https://tinyurl.com/3v57r575)
 
 ## 👨‍💻 Author
 - Aditya Narayan Kaushik
