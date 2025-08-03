@@ -19,6 +19,8 @@ Create a console-based ATM Interface using Java that allows users to log in and 
 ## 🎯 Outcome
 A functional command-line banking interface that simulates real-life ATM usage. The project demonstrates understanding of Java control structures, input handling, and modular coding through multiple methods.
 
+🚀 **Demo Video Link (LinkedIn)**: [Click here (coming soon)](https://www.linkedin.com/in/aditya-codes77/)
+
 ## 👨‍💻 Author
 - Aditya Narayan Kaushik
 - Internship Domain: Java Development
